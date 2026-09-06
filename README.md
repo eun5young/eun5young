@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Eunyoung !
+# 👋 Hi, I'm Eunyoung 우하하 🦅 !
 
-- Seoul National University of Science and Technology, ITM
-- Northumbria University, Information Technology Management
-- Hanze University of Applied Sciences, Medialism (Exchange Student)
-
+- Seoul National University of Science and Technology, ITM 🇰🇷
+- Northumbria University, Information Technology Management 🇬🇧
 
 ## Projects
 
@@ -12,14 +10,8 @@
 * **[IT-MBTI](https://github.com/OSS-TeamProjectt/IT-MBTI)** 
 * **[RecipeYa](https://github.com/callmeminji/RecipeBook_WP)**
 * **[PintOS](https://github.com/callmeminji/pintOS)**
-
-
-
-## Skills
-
-* **Languages** | Python · Kotlin · SQL · JavaScript
-* **Web / App** | React · Next.js · Firebase · Supabase
-* **Tools** | Git · GitHub · Figma
+* **[Safe Area Classification](https://github.com/eun5young/safe-area-classification)** : 숏폼 리포맷을 위한 영상 프레임의 세로 크롭 안전 여부 분류 (딥러닝 프로젝트)
+* **[Movie Spoiler Detection](https://github.com/eun5young/movie-review-spoiler-detection)** : 영화 리뷰 텍스트 기반 스포일러 포함 여부 분류 (딥러닝 프로젝트)
 
 
 ## Experiences
@@ -27,7 +19,7 @@
 - 🎥 Documentary Production — *Opening the Backdoor*
 - ☁️ ACC (AWS Cloud Club) SeoulTech 2nd
 - 🐨 코알라 (코딩을알려달라) — [Algorithm Study](https://github.com/youn9jin/Algorithm_Study_team2)
-- 🌍 Exchange Semester — Hanze University of Applied Sciences
+- 🌍 Exchange Semester — Hanze University of Applied Sciences 🇳🇱
 
 
 ## Certifications
